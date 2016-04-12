@@ -1,5 +1,4 @@
 * {
-background-clip: firefox;
 background-color: lightslategrey;
 align-self: center;
 
@@ -8,10 +7,12 @@ align-self: center;
 text-align: center;
  
 }
-.container {
+.a_form {
 
-  align-content: space-around;
-  height: 200px;
-  width: 180px 
+color: greenyellow;
+border: 2px;
+height: 200px;
+ width: 180px 
+
 }
 
