@@ -1,0 +1,16 @@
+* {
+
+align-self: center;
+}
+.header {
+  vertical-align: center;
+ 
+}
+
+
+.container {
+  align-content: space-around;
+  height: 200px;
+  width: 180px 
+}
+
